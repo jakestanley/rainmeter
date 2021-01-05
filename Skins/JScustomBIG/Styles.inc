@@ -18,7 +18,7 @@ FontColor=#colorTextLight#
 FontFace=#fontNameBig#
 FontSize=#fontSizeBig#
 AntiAlias=1
-ClipString=1
+ClipString=0
 InlineSetting=CharacterSpacing | 0 | 1
 ;InlineSetting=Typography | fwid
 
